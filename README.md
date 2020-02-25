@@ -11,7 +11,7 @@ N. Shlezinger, R. Fu, and Y. C. Eldar.
 ## Repository content
 The implementation of DeepSIC consists of two functions:
 
--  GetDeepSICNet - generate and train DeepSIC MIMO detector.
+-  GetDeepSICNet - generate and train DeepSIC MIMO detector. Training is carried out in a sequential manner (see **Sequential Training** in the above reference).
   
 -  s_fDetDeepSIC - use trained model to detect symbols, returns BER.
   
