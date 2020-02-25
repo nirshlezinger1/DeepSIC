@@ -15,6 +15,6 @@ The implementation of DeepSIC consists of two functions:
   
 -  s_fDetDeepSIC - use trained model to detect symbols, returns BER.
   
-A code example for evaluating ViterbiNet can be found in the script DeepSIC_Test1.m
+A code example for evaluating ViterbiNet can be found in the script DeepSIC_Test1.m.
 
 This code requires Matlab with deep learning toolbox.
