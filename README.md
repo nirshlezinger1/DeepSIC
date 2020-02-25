@@ -3,7 +3,7 @@ A deep learning based soft interference cancellation symbol detector, based on t
 
 N. Shlezinger, R. Fu, and Y. C. Eldar. 
 
-“**ViterbiNet: A deep learning based Viterbi algorithm for symbol detection**”. 
+“**DeepSIC: Deep Soft Interference Cancellation for Multiuser MIMO Detection**”. 
 
 *arXiv preprint*, arXiv:2002.03214, 2020.
 
