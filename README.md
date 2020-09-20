@@ -17,4 +17,4 @@ The implementation of DeepSIC consists of two functions:
   
 A code example for evaluating ViterbiNet can be found in the script DeepSIC_Test1.m.
 
-This code requires Matlab with deep learning toolbox.
+This code requires Matlab with deep learning toolbox. The results reported in the paper were simulated using Matlab 2018b.
